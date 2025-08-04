@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langgraph
+mem0ai
+docker
+neo4j
+langchain-neo4j
+qdrant-client
+rich
+python-dotenv
+PyYAML
+rank-bm25
