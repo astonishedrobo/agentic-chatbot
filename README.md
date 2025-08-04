@@ -6,6 +6,8 @@ An interactive, console-based chatbot that leverages an agentic architecture and
 - **💻 Interactive Console UI**: A clean, colorful, and user-friendly interface built with `rich` console.
 - **🔧 Simple Command Interface**: Easily manage conversations and memory with intuitive commands.
 
+![Interface](static/interface.png)
+
 ## Core Architecture
 
 The chatbot's logic is built on a stateful graph that orchestrates interactions and tool usage. This allows the agent to intelligently decide when to access its long-term memory based on the conversation's context.
